@@ -1,6 +1,6 @@
 # Analyzing Trust and Ethical Concerns of AI in Healthcare Systems
 An advanced Capstone and Professional Practices research initiative examining the ethical reliability, transparency, and governance challenges of Artificial Intelligence technologies in healthcare environments. This project explores how AI-driven systems impact clinical decision-making, patient safety, data protection, and professional accountability while proposing responsible frameworks for human-centered medical AI adoption.
-## Research Focus Areas
+## 🔬 Research Focus Areas
 1. ### Explainability & Transparent AI
 Explores the limitations of “black-box” machine learning systems in medical diagnostics and the necessity for interpretable AI decisions in critical healthcare scenarios.
 
@@ -19,7 +19,7 @@ Investigates how accountability should be distributed among AI developers, healt
 6. ### Human Dependency on Intelligent Systems
 Evaluates the long-term risks of excessive dependence on AI recommendations by medical practitioners and its effect on professional judgment and decision-making skills.
 
-## Professional & Regulatory Frameworks
+## 🛠️ Professional & Regulatory Frameworks
 The project compares healthcare AI challenges against internationally recognized ethical and professional standards, including:
 
 ACM Code of Ethics
@@ -30,7 +30,7 @@ PECA (Pakistan Electronic Crimes Act)
 
 These frameworks were used to evaluate responsible AI development, privacy obligations, system accountability, and professional engineering conduct.
 
-## Research Methodology
+## 📊 Research Methodology
 ### Survey-Based Investigation
 Conducted a structured public survey involving participants from multiple demographic backgrounds to evaluate perceptions regarding:
 
